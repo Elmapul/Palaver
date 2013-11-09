@@ -50,3 +50,9 @@ send all "type" in this folder.
 
 Attach to email.
 
+joystick/remote control as shortcut key
+
+Mascot characters for  desktop (if possible compatible with "ukagaka Surface, shell, ghost" file format) 
+http://en.wikipedia.org/wiki/Ukagaka
+think of it as an chatterbot (but the chat functions itself will be only an bridge to thirdparty chatbots programs)
+
